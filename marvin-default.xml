@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="github" fetch="https://github.com/csimmonds" />
+  <remote name="github" fetch="https://github.com/xrda3team" />
   
-  <project path="device/sirius" name="marvin" revision="android12" remote="github"/>
+  <project path="device/sirius" name="marvin" revision="android13" remote="github"/>
 
 </manifest>
